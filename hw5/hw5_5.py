@@ -49,6 +49,7 @@ with open(file_name) as csvfile:
             features_train, features_test = features[train_index], features[test_index]
             target_train, target_test = target[train_index], target[test_index]
 
+            
             # train polynomial model
             model = sm.OLS(target_train,features_train).fit()
 

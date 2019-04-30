@@ -1,0 +1,1245 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.12.20)  20 APR 2019 18:19
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**TylerOlivieri_Hw6.tex
+(./TylerOlivieri_Hw6.tex
+LaTeX2e <2017-04-15>
+Babel <3.18> and hyphenation patterns for 3 language(s) loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texlive/texmf-dist/tex/latex/preprint/fullpage.sty
+Package: fullpage 1999/02/23 1.1 (PWD)
+\FP@margin=\skip43
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks14
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2017/09/02 v2.17a AMS math features
+\@mathmargin=\skip44
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks15
+\ex@=\dimen103
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen104
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count87
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count88
+\leftroot@=\count89
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count90
+\DOTSCASE@=\count91
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen105
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count92
+\c@MaxMatrixCols=\count93
+\dotsspace@=\muskip10
+\c@parentequation=\count94
+\dspbrk@lvl=\count95
+\tag@help=\toks16
+\row@=\count96
+\column@=\count97
+\maxfields@=\count98
+\andhelp@=\toks17
+\eqnshift@=\dimen106
+\alignsep@=\dimen107
+\tagshift@=\dimen108
+\tagwidth@=\dimen109
+\totwidth@=\dimen110
+\lineht@=\dimen111
+\@envbody=\toks18
+\multlinegap=\skip45
+\multlinetaggap=\skip46
+\mathdisplay@stack=\toks19
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2017/10/31 v2.20.4
+\thm@style=\toks20
+\thm@bodyfont=\toks21
+\thm@headfont=\toks22
+\thm@notefont=\toks23
+\thm@headpunct=\toks24
+\thm@preskip=\skip47
+\thm@postskip=\skip48
+\thm@headsep=\skip49
+\dth@everypar=\toks25
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/latexsym.sty
+Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 52.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks26
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen112
+\Gin@req@width=\dimen113
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip11
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count99
+\lst@gtempboxa=\box28
+\lst@token=\toks27
+\lst@length=\count100
+\lst@currlwidth=\dimen114
+\lst@column=\count101
+\lst@pos=\count102
+\lst@lostspace=\dimen115
+\lst@width=\dimen116
+\lst@newlines=\count103
+\lst@lineno=\count104
+\lst@maxwidth=\dimen117
+
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+\c@lstnumber=\count105
+\lst@skipnumbers=\count106
+\lst@framebox=\box29
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2015/06/04 1.6 listings configuration
+))
+Package: listings 2015/06/04 1.6 (Carsten Heinz)
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2017/10/31 v0.5l Insert pages of external PDF documents (AM)
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count107
+\calc@Bcount=\count108
+\calc@Adimen=\dimen118
+\calc@Bdimen=\dimen119
+\calc@Askip=\skip50
+\calc@Bskip=\skip51
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count109
+\calc@Cskip=\skip52
+)
+(/usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2015/07/21 v2.0g eso-pic (RN)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/atbegshi.sty
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)))
+\AM@pagewidth=\dimen120
+\AM@pageheight=\dimen121
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pppdftex.def
+File: pppdftex.def 2017/10/31 v0.5l Pdfpages driver for pdfTeX (AM)
+)
+\AM@pagebox=\box30
+\AM@global@opts=\toks28
+\AM@toc@title=\toks29
+\c@AM@survey=\count110
+\AM@templatesizebox=\box31
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf.sty
+Package: epstopdf 2016/05/15 v2.6 Conversion with epstopdf on the fly (HO)
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2018/01/21 v0.26 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+)))
+\c@thm=\count111
+\c@exmp=\count112
+
+(./TylerOlivieri_Hw6.aux)
+\openout1 = `TylerOlivieri_Hw6.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 130.
+LaTeX Font Info:    ... okay on input line 130.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 130.
+LaTeX Font Info:    ... okay on input line 130.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 130.
+LaTeX Font Info:    ... okay on input line 130.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 130.
+LaTeX Font Info:    ... okay on input line 130.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 130.
+LaTeX Font Info:    ... okay on input line 130.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 130.
+LaTeX Font Info:    ... okay on input line 130.
+
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count113
+\scratchdimen=\dimen122
+\scratchbox=\box32
+\nofMPsegments=\count114
+\nofMParguments=\count115
+\everyMPshowfont=\toks30
+\MPscratchCnt=\count116
+\MPscratchDim=\dimen123
+\MPnumerator=\count117
+\makeMPintoPDFobject=\count118
+\everyMPtoPDFconversion=\toks31
+)
+\c@lstlisting=\count119
+\AtBeginShipoutBox=\box33
+ (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/pdflscape.sty
+Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+))
+<./hw1_3.pdf, id=1, 614.295pt x 796.89719pt>
+File: ./hw1_3.pdf Graphic file (type pdf)
+<use ./hw1_3.pdf>
+Package pdftex.def Info: ./hw1_3.pdf  used on input line 147.
+(pdftex.def)             Requested size: 614.29349pt x 796.89525pt.
+File: ./hw1_3.pdf Graphic file (type pdf)
+<use ./hw1_3.pdf>
+Package pdftex.def Info: ./hw1_3.pdf  used on input line 147.
+(pdftex.def)             Requested size: 614.29349pt x 796.89525pt.
+<./hw1_3.pdf, id=4, page=1, 614.295pt x 796.89719pt>
+File: ./hw1_3.pdf Graphic file (type pdf)
+<use ./hw1_3.pdf, page 1>
+Package pdftex.def Info: ./hw1_3.pdf , page1 used on input line 147.
+(pdftex.def)             Requested size: 614.29349pt x 796.89525pt.
+File: ./hw1_3.pdf Graphic file (type pdf)
+<use ./hw1_3.pdf, page 1>
+Package pdftex.def Info: ./hw1_3.pdf , page1 used on input line 147.
+(pdftex.def)             Requested size: 613.49675pt x 795.86166pt.
+ [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+File: ./hw1_3.pdf Graphic file (type pdf)
+<use ./hw1_3.pdf, page 1>
+Package pdftex.def Info: ./hw1_3.pdf , page1 used on input line 147.
+(pdftex.def)             Requested size: 613.49675pt x 795.86166pt.
+File: ./hw1_3.pdf Graphic file (type pdf)
+<use ./hw1_3.pdf, page 1>
+Package pdftex.def Info: ./hw1_3.pdf , page1 used on input line 147.
+(pdftex.def)             Requested size: 613.49675pt x 795.86166pt.
+File: ./hw1_3.pdf Graphic file (type pdf)
+<use ./hw1_3.pdf, page 1>
+Package pdftex.def Info: ./hw1_3.pdf , page1 used on input line 147.
+(pdftex.def)             Requested size: 613.49675pt x 795.86166pt.
+ [2 <./hw1_3.pdf>]
+<./hw1_3.pdf, id=18, page=2, 612.6087pt x 794.72911pt>
+File: ./hw1_3.pdf Graphic file (type pdf)
+<use ./hw1_3.pdf, page 2>
+Package pdftex.def Info: ./hw1_3.pdf , page2 used on input line 147.
+(pdftex.def)             Requested size: 611.81264pt x 793.69641pt.
+File: ./hw1_3.pdf Graphic file (type pdf)
+<use ./hw1_3.pdf, page 2>
+Package pdftex.def Info: ./hw1_3.pdf , page2 used on input line 147.
+(pdftex.def)             Requested size: 611.81264pt x 793.69641pt.
+File: ./hw1_3.pdf Graphic file (type pdf)
+<use ./hw1_3.pdf, page 2>
+Package pdftex.def Info: ./hw1_3.pdf , page2 used on input line 147.
+(pdftex.def)             Requested size: 611.81264pt x 793.69641pt.
+ [3 <./hw1_3.pdf>]
+<./hw1_3.pdf, id=23, page=3, 614.05411pt x 796.4154pt>
+File: ./hw1_3.pdf Graphic file (type pdf)
+<use ./hw1_3.pdf, page 3>
+Package pdftex.def Info: ./hw1_3.pdf , page3 used on input line 147.
+(pdftex.def)             Requested size: 613.25616pt x 795.38051pt.
+File: ./hw1_3.pdf Graphic file (type pdf)
+<use ./hw1_3.pdf, page 3>
+Package pdftex.def Info: ./hw1_3.pdf , page3 used on input line 147.
+(pdftex.def)             Requested size: 613.25616pt x 795.38051pt.
+File: ./hw1_3.pdf Graphic file (type pdf)
+<use ./hw1_3.pdf, page 3>
+Package pdftex.def Info: ./hw1_3.pdf , page3 used on input line 147.
+(pdftex.def)             Requested size: 613.25616pt x 795.38051pt.
+
+[4 <./hw1_3.pdf>]
+<./hw1_3.pdf, id=28, page=4, 615.7404pt x 796.4154pt>
+File: ./hw1_3.pdf Graphic file (type pdf)
+<use ./hw1_3.pdf, page 4>
+Package pdftex.def Info: ./hw1_3.pdf , page4 used on input line 147.
+(pdftex.def)             Requested size: 614.94028pt x 795.38051pt.
+File: ./hw1_3.pdf Graphic file (type pdf)
+<use ./hw1_3.pdf, page 4>
+Package pdftex.def Info: ./hw1_3.pdf , page4 used on input line 147.
+(pdftex.def)             Requested size: 614.94028pt x 795.38051pt.
+File: ./hw1_3.pdf Graphic file (type pdf)
+<use ./hw1_3.pdf, page 4>
+Package pdftex.def Info: ./hw1_3.pdf , page4 used on input line 147.
+(pdftex.def)             Requested size: 614.94028pt x 795.38051pt.
+ [5 <./hw1_3.pdf>]
+<./hw1_3.pdf, id=33, page=5, 615.49951pt x 796.17451pt>
+File: ./hw1_3.pdf Graphic file (type pdf)
+<use ./hw1_3.pdf, page 5>
+Package pdftex.def Info: ./hw1_3.pdf , page5 used on input line 147.
+(pdftex.def)             Requested size: 614.69969pt x 795.13994pt.
+File: ./hw1_3.pdf Graphic file (type pdf)
+<use ./hw1_3.pdf, page 5>
+Package pdftex.def Info: ./hw1_3.pdf , page5 used on input line 147.
+(pdftex.def)             Requested size: 614.69969pt x 795.13994pt.
+File: ./hw1_3.pdf Graphic file (type pdf)
+<use ./hw1_3.pdf, page 5>
+Package pdftex.def Info: ./hw1_3.pdf , page5 used on input line 147.
+(pdftex.def)             Requested size: 614.69969pt x 795.13994pt.
+ [6 <./hw1_3.pdf>]
+<./hw1_3.pdf, id=38, page=6, 614.53589pt x 796.17451pt>
+File: ./hw1_3.pdf Graphic file (type pdf)
+<use ./hw1_3.pdf, page 6>
+Package pdftex.def Info: ./hw1_3.pdf , page6 used on input line 147.
+(pdftex.def)             Requested size: 613.73732pt x 795.13994pt.
+File: ./hw1_3.pdf Graphic file (type pdf)
+<use ./hw1_3.pdf, page 6>
+Package pdftex.def Info: ./hw1_3.pdf , page6 used on input line 147.
+(pdftex.def)             Requested size: 613.73732pt x 795.13994pt.
+File: ./hw1_3.pdf Graphic file (type pdf)
+<use ./hw1_3.pdf, page 6>
+Package pdftex.def Info: ./hw1_3.pdf , page6 used on input line 147.
+(pdftex.def)             Requested size: 613.73732pt x 795.13994pt.
+ [7 <./hw1_3.pdf>]
+<./hw1_3.pdf, id=44, page=7, 609.95879pt x 796.4154pt>
+File: ./hw1_3.pdf Graphic file (type pdf)
+<use ./hw1_3.pdf, page 7>
+Package pdftex.def Info: ./hw1_3.pdf , page7 used on input line 147.
+(pdftex.def)             Requested size: 609.16618pt x 795.38051pt.
+File: ./hw1_3.pdf Graphic file (type pdf)
+<use ./hw1_3.pdf, page 7>
+Package pdftex.def Info: ./hw1_3.pdf , page7 used on input line 147.
+(pdftex.def)             Requested size: 609.16618pt x 795.38051pt.
+File: ./hw1_3.pdf Graphic file (type pdf)
+<use ./hw1_3.pdf, page 7>
+Package pdftex.def Info: ./hw1_3.pdf , page7 used on input line 147.
+(pdftex.def)             Requested size: 609.16618pt x 795.38051pt.
+
+[8 <./hw1_3.pdf>]
+<./hw1_3.pdf, id=49, page=8, 612.8496pt x 795.45178pt>
+File: ./hw1_3.pdf Graphic file (type pdf)
+<use ./hw1_3.pdf, page 8>
+Package pdftex.def Info: ./hw1_3.pdf , page8 used on input line 147.
+(pdftex.def)             Requested size: 612.0532pt x 794.41814pt.
+File: ./hw1_3.pdf Graphic file (type pdf)
+<use ./hw1_3.pdf, page 8>
+Package pdftex.def Info: ./hw1_3.pdf , page8 used on input line 147.
+(pdftex.def)             Requested size: 612.0532pt x 794.41814pt.
+File: ./hw1_3.pdf Graphic file (type pdf)
+<use ./hw1_3.pdf, page 8>
+Package pdftex.def Info: ./hw1_3.pdf , page8 used on input line 147.
+(pdftex.def)             Requested size: 612.0532pt x 794.41814pt.
+ [9 <./hw1_3.pdf>]
+<./hw1_3.pdf, id=54, page=9, 615.49951pt x 797.37903pt>
+File: ./hw1_3.pdf Graphic file (type pdf)
+<use ./hw1_3.pdf, page 9>
+Package pdftex.def Info: ./hw1_3.pdf , page9 used on input line 147.
+(pdftex.def)             Requested size: 614.69969pt x 796.34288pt.
+File: ./hw1_3.pdf Graphic file (type pdf)
+<use ./hw1_3.pdf, page 9>
+Package pdftex.def Info: ./hw1_3.pdf , page9 used on input line 147.
+(pdftex.def)             Requested size: 614.69969pt x 796.34288pt.
+File: ./hw1_3.pdf Graphic file (type pdf)
+<use ./hw1_3.pdf, page 9>
+Package pdftex.def Info: ./hw1_3.pdf , page9 used on input line 147.
+(pdftex.def)             Requested size: 614.69969pt x 796.34288pt.
+ [10 <./hw1_3.pdf>]
+<./hw1_3.pdf, id=59, page=10, 613.57233pt x 796.4154pt>
+File: ./hw1_3.pdf Graphic file (type pdf)
+<use ./hw1_3.pdf, page 10>
+Package pdftex.def Info: ./hw1_3.pdf , page10 used on input line 147.
+(pdftex.def)             Requested size: 612.77501pt x 795.38051pt.
+File: ./hw1_3.pdf Graphic file (type pdf)
+<use ./hw1_3.pdf, page 10>
+Package pdftex.def Info: ./hw1_3.pdf , page10 used on input line 147.
+(pdftex.def)             Requested size: 612.77501pt x 795.38051pt.
+File: ./hw1_3.pdf Graphic file (type pdf)
+<use ./hw1_3.pdf, page 10>
+Package pdftex.def Info: ./hw1_3.pdf , page10 used on input line 147.
+(pdftex.def)             Requested size: 612.77501pt x 795.38051pt.
+ [11 <./hw1_3.pdf>]
+<./hw1_3.pdf, id=64, page=11, 610.44057pt x 794.97pt>
+File: ./hw1_3.pdf Graphic file (type pdf)
+<use ./hw1_3.pdf, page 11>
+Package pdftex.def Info: ./hw1_3.pdf , page11 used on input line 147.
+(pdftex.def)             Requested size: 609.64734pt x 793.93698pt.
+File: ./hw1_3.pdf Graphic file (type pdf)
+<use ./hw1_3.pdf, page 11>
+Package pdftex.def Info: ./hw1_3.pdf , page11 used on input line 147.
+(pdftex.def)             Requested size: 609.64734pt x 793.93698pt.
+File: ./hw1_3.pdf Graphic file (type pdf)
+<use ./hw1_3.pdf, page 11>
+Package pdftex.def Info: ./hw1_3.pdf , page11 used on input line 147.
+(pdftex.def)             Requested size: 609.64734pt x 793.93698pt.
+
+[12 <./hw1_3.pdf>]
+<./hw1_3.pdf, id=69, page=12, 614.53589pt x 798.58348pt>
+File: ./hw1_3.pdf Graphic file (type pdf)
+<use ./hw1_3.pdf, page 12>
+Package pdftex.def Info: ./hw1_3.pdf , page12 used on input line 147.
+(pdftex.def)             Requested size: 613.73732pt x 797.54578pt.
+File: ./hw1_3.pdf Graphic file (type pdf)
+<use ./hw1_3.pdf, page 12>
+Package pdftex.def Info: ./hw1_3.pdf , page12 used on input line 147.
+(pdftex.def)             Requested size: 613.73732pt x 797.54578pt.
+File: ./hw1_3.pdf Graphic file (type pdf)
+<use ./hw1_3.pdf, page 12>
+Package pdftex.def Info: ./hw1_3.pdf , page12 used on input line 147.
+(pdftex.def)             Requested size: 613.73732pt x 797.54578pt.
+ [13 <./hw1_3.pdf>]
+<./hw1_3.pdf, id=75, page=13, 615.49951pt x 799.788pt>
+File: ./hw1_3.pdf Graphic file (type pdf)
+<use ./hw1_3.pdf, page 13>
+Package pdftex.def Info: ./hw1_3.pdf , page13 used on input line 147.
+(pdftex.def)             Requested size: 614.69969pt x 798.74872pt.
+File: ./hw1_3.pdf Graphic file (type pdf)
+<use ./hw1_3.pdf, page 13>
+Package pdftex.def Info: ./hw1_3.pdf , page13 used on input line 147.
+(pdftex.def)             Requested size: 614.69969pt x 798.74872pt.
+File: ./hw1_3.pdf Graphic file (type pdf)
+<use ./hw1_3.pdf, page 13>
+Package pdftex.def Info: ./hw1_3.pdf , page13 used on input line 147.
+(pdftex.def)             Requested size: 614.69969pt x 798.74872pt.
+ [14 <./hw1_3.pdf>]
+<./hw1_3.pdf, id=80, page=14, 613.57233pt x 799.788pt>
+File: ./hw1_3.pdf Graphic file (type pdf)
+<use ./hw1_3.pdf, page 14>
+Package pdftex.def Info: ./hw1_3.pdf , page14 used on input line 147.
+(pdftex.def)             Requested size: 612.77501pt x 798.74872pt.
+File: ./hw1_3.pdf Graphic file (type pdf)
+<use ./hw1_3.pdf, page 14>
+Package pdftex.def Info: ./hw1_3.pdf , page14 used on input line 147.
+(pdftex.def)             Requested size: 612.77501pt x 798.74872pt.
+File: ./hw1_3.pdf Graphic file (type pdf)
+<use ./hw1_3.pdf, page 14>
+Package pdftex.def Info: ./hw1_3.pdf , page14 used on input line 147.
+(pdftex.def)             Requested size: 612.77501pt x 798.74872pt.
+ [15 <./hw1_3.pdf>]
+Overfull \hbox (5.39052pt too wide) in paragraph at lines 159--161
+[]\OT1/cmr/m/n/10 [ 0.48788336 -0.26512898 0.47333547 0.13915442 0.19742679 -0.
+04588071 0.00406675 0.37030119
+ []
+
+
+Overfull \hbox (9.83496pt too wide) in paragraph at lines 176--178
+[]\OT1/cmr/m/n/10 [-0.16482854 -0.22708884 0.10022856 0.24362014 -0.02660785 0.
+61611132 0.54073214 -0.16872267
+ []
+
+
+Overfull \hbox (11.5016pt too wide) in paragraph at lines 185--187
+[]\OT1/cmr/m/n/10 [-0.23109808 0.04185824 -0.0567358 -0.38303758 0.65477782 -0.
+03371148 -0.02845973 -0.20069341
+ []
+
+
+Overfull \hbox (9.83496pt too wide) in paragraph at lines 194--196
+[]\OT1/cmr/m/n/10 [-0.07877938 0.29937933 -0.12014871 0.70936319 0.26623723 -0.
+15941286 -0.21845284 0.20879298
+ []
+
+<data_and_pcVectors.png, id=85, 1387.584pt x 735.7086pt>
+File: data_and_pcVectors.png Graphic file (type png)
+<use data_and_pcVectors.png>
+Package pdftex.def Info: data_and_pcVectors.png  used on input line 206.
+(pdftex.def)             Requested size: 469.75502pt x 249.07114pt.
+
+Overfull \hbox (47.00003pt too wide) in paragraph at lines 206--207
+[][] 
+ []
+
+<projected_data_onto_pcVectors.png, id=87, 1339.1631pt x 716.1957pt>
+File: projected_data_onto_pcVectors.png Graphic file (type png)
+<use projected_data_onto_pcVectors.png>
+Package pdftex.def Info: projected_data_onto_pcVectors.png  used on input line 
+210.
+(pdftex.def)             Requested size: 469.75502pt x 251.22958pt.
+
+Overfull \hbox (47.00003pt too wide) in paragraph at lines 210--211
+[][] 
+ []
+
+
+Underfull \vbox (badness 4120) has occurred while \output is active []
+
+
+Overfull \vbox (6.94444pt too high) has occurred while \output is active []
+
+
+[16 <./data_and_pcVectors.png>]
+LaTeX Font Info:    Try loading font information for U+msa on input line 215.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 215.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Try loading font information for U+lasy on input line 215.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ulasy.fd
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+)
+Overfull \vbox (6.44444pt too high) has occurred while \output is active []
+
+
+[17 <./projected_data_onto_pcVectors.png>]
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2015/06/04 1.6 listings language file
+) (./hw6_4.py
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 2.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 2.
+
+Overfull \hbox (17.24971pt too wide) in paragraph at lines 42--43
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (59.25014pt too wide) in paragraph at lines 43--44
+[][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \vbox (6.94444pt too high) has occurred while \output is active []
+
+
+[18]
+Overfull \hbox (11.24965pt too wide) in paragraph at lines 54--55
+[][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (347.25307pt too wide) in paragraph at lines 56--58
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (53.25008pt too wide) in paragraph at lines 61--62
+[][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (11.24965pt too wide) in paragraph at lines 65--66
+[][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (365.25325pt too wide) in paragraph at lines 67--69
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (41.24995pt too wide) in paragraph at lines 69--70
+[][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (809.25777pt too wide) in paragraph at lines 72--74
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (89.25044pt too wide) in paragraph at lines 82--83
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (1079.26051pt too wide) in paragraph at lines 88--89
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
+[][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (89.25044pt too wide) in paragraph at lines 95--96
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.44444pt too high) has occurred while \output is active []
+
+
+[19])
+<eigenface_1.png, id=107, 462.528pt x 346.896pt>
+File: eigenface_1.png Graphic file (type png)
+<use eigenface_1.png>
+Package pdftex.def Info: eigenface_1.png  used on input line 275.
+(pdftex.def)             Requested size: 469.75502pt x 352.33655pt.
+<eigenface_2.png, id=108, 462.528pt x 346.896pt>
+File: eigenface_2.png Graphic file (type png)
+<use eigenface_2.png>
+Package pdftex.def Info: eigenface_2.png  used on input line 277.
+(pdftex.def)             Requested size: 469.75502pt x 352.33655pt.
+<eigenface_3.png, id=109, 462.528pt x 346.896pt>
+File: eigenface_3.png Graphic file (type png)
+<use eigenface_3.png>
+Package pdftex.def Info: eigenface_3.png  used on input line 279.
+(pdftex.def)             Requested size: 469.75502pt x 352.33655pt.
+<eigenface_4.png, id=110, 462.528pt x 346.896pt>
+File: eigenface_4.png Graphic file (type png)
+<use eigenface_4.png>
+Package pdftex.def Info: eigenface_4.png  used on input line 281.
+(pdftex.def)             Requested size: 469.75502pt x 352.33655pt.
+<eigenface_5.png, id=111, 462.528pt x 346.896pt>
+File: eigenface_5.png Graphic file (type png)
+<use eigenface_5.png>
+Package pdftex.def Info: eigenface_5.png  used on input line 283.
+(pdftex.def)             Requested size: 469.75502pt x 352.33655pt.
+<eigenface_6.png, id=112, 462.528pt x 346.896pt>
+File: eigenface_6.png Graphic file (type png)
+<use eigenface_6.png>
+Package pdftex.def Info: eigenface_6.png  used on input line 285.
+(pdftex.def)             Requested size: 469.75502pt x 352.33655pt.
+<eigenface_7.png, id=113, 462.528pt x 346.896pt>
+File: eigenface_7.png Graphic file (type png)
+<use eigenface_7.png>
+Package pdftex.def Info: eigenface_7.png  used on input line 287.
+(pdftex.def)             Requested size: 469.75502pt x 352.33655pt.
+<eigenface_8.png, id=114, 462.528pt x 346.896pt>
+File: eigenface_8.png Graphic file (type png)
+<use eigenface_8.png>
+Package pdftex.def Info: eigenface_8.png  used on input line 289.
+(pdftex.def)             Requested size: 469.75502pt x 352.33655pt.
+<eigenface_9.png, id=115, 462.528pt x 346.896pt>
+File: eigenface_9.png Graphic file (type png)
+<use eigenface_9.png>
+Package pdftex.def Info: eigenface_9.png  used on input line 291.
+(pdftex.def)             Requested size: 469.75502pt x 352.33655pt.
+<eigenface_10.png, id=116, 462.528pt x 346.896pt>
+File: eigenface_10.png Graphic file (type png)
+<use eigenface_10.png>
+Package pdftex.def Info: eigenface_10.png  used on input line 293.
+(pdftex.def)             Requested size: 469.75502pt x 352.33655pt.
+<eigenface_11.png, id=117, 462.528pt x 346.896pt>
+File: eigenface_11.png Graphic file (type png)
+<use eigenface_11.png>
+Package pdftex.def Info: eigenface_11.png  used on input line 295.
+(pdftex.def)             Requested size: 469.75502pt x 352.33655pt.
+<eigenface_12.png, id=118, 462.528pt x 346.896pt>
+File: eigenface_12.png Graphic file (type png)
+<use eigenface_12.png>
+Package pdftex.def Info: eigenface_12.png  used on input line 297.
+(pdftex.def)             Requested size: 469.75502pt x 352.33655pt.
+<eigenface_13.png, id=119, 462.528pt x 346.896pt>
+File: eigenface_13.png Graphic file (type png)
+<use eigenface_13.png>
+Package pdftex.def Info: eigenface_13.png  used on input line 299.
+(pdftex.def)             Requested size: 469.75502pt x 352.33655pt.
+<eigenface_14.png, id=120, 462.528pt x 346.896pt>
+File: eigenface_14.png Graphic file (type png)
+<use eigenface_14.png>
+Package pdftex.def Info: eigenface_14.png  used on input line 301.
+(pdftex.def)             Requested size: 469.75502pt x 352.33655pt.
+<eigenface_15.png, id=121, 462.528pt x 346.896pt>
+File: eigenface_15.png Graphic file (type png)
+<use eigenface_15.png>
+Package pdftex.def Info: eigenface_15.png  used on input line 303.
+(pdftex.def)             Requested size: 469.75502pt x 352.33655pt.
+<eigenface_16.png, id=122, 462.528pt x 346.896pt>
+File: eigenface_16.png Graphic file (type png)
+<use eigenface_16.png>
+Package pdftex.def Info: eigenface_16.png  used on input line 305.
+(pdftex.def)             Requested size: 469.75502pt x 352.33655pt.
+<eigenface_17.png, id=123, 462.528pt x 346.896pt>
+File: eigenface_17.png Graphic file (type png)
+<use eigenface_17.png>
+Package pdftex.def Info: eigenface_17.png  used on input line 307.
+(pdftex.def)             Requested size: 469.75502pt x 352.33655pt.
+<eigenface_18.png, id=124, 462.528pt x 346.896pt>
+File: eigenface_18.png Graphic file (type png)
+<use eigenface_18.png>
+Package pdftex.def Info: eigenface_18.png  used on input line 309.
+(pdftex.def)             Requested size: 469.75502pt x 352.33655pt.
+<eigenface_19.png, id=125, 462.528pt x 346.896pt>
+File: eigenface_19.png Graphic file (type png)
+<use eigenface_19.png>
+Package pdftex.def Info: eigenface_19.png  used on input line 311.
+(pdftex.def)             Requested size: 469.75502pt x 352.33655pt.
+<eigenface_20.png, id=126, 462.528pt x 346.896pt>
+File: eigenface_20.png Graphic file (type png)
+<use eigenface_20.png>
+Package pdftex.def Info: eigenface_20.png  used on input line 313.
+(pdftex.def)             Requested size: 469.75502pt x 352.33655pt.
+<eigenface_21.png, id=127, 462.528pt x 346.896pt>
+File: eigenface_21.png Graphic file (type png)
+<use eigenface_21.png>
+Package pdftex.def Info: eigenface_21.png  used on input line 315.
+(pdftex.def)             Requested size: 469.75502pt x 352.33655pt.
+<eigenface_22.png, id=128, 462.528pt x 346.896pt>
+File: eigenface_22.png Graphic file (type png)
+<use eigenface_22.png>
+Package pdftex.def Info: eigenface_22.png  used on input line 317.
+(pdftex.def)             Requested size: 469.75502pt x 352.33655pt.
+<eigenface_23.png, id=129, 462.528pt x 346.896pt>
+File: eigenface_23.png Graphic file (type png)
+<use eigenface_23.png>
+Package pdftex.def Info: eigenface_23.png  used on input line 319.
+(pdftex.def)             Requested size: 469.75502pt x 352.33655pt.
+<eigenface_24.png, id=130, 462.528pt x 346.896pt>
+File: eigenface_24.png Graphic file (type png)
+<use eigenface_24.png>
+Package pdftex.def Info: eigenface_24.png  used on input line 321.
+(pdftex.def)             Requested size: 469.75502pt x 352.33655pt.
+<eigenface_25.png, id=131, 462.528pt x 346.896pt>
+File: eigenface_25.png Graphic file (type png)
+<use eigenface_25.png>
+Package pdftex.def Info: eigenface_25.png  used on input line 323.
+(pdftex.def)             Requested size: 469.75502pt x 352.33655pt.
+
+Overfull \hbox (94.11125pt too wide) in paragraph at lines 274--324
+[]\OT1/cmr/m/n/10 First eigen-face: []
+ []
+
+
+Overfull \hbox (62.22232pt too wide) in paragraph at lines 274--324
+\OT1/cmr/m/n/10 Sec-ond: []
+ []
+
+
+Overfull \hbox (56.69453pt too wide) in paragraph at lines 274--324
+\OT1/cmr/m/n/10 Third: []
+ []
+
+
+Overfull \hbox (61.2779pt too wide) in paragraph at lines 274--324
+\OT1/cmr/m/n/10 Fourth: []
+ []
+
+
+Overfull \hbox (53.47234pt too wide) in paragraph at lines 274--324
+\OT1/cmr/m/n/10 Fifth: []
+ []
+
+
+Overfull \hbox (54.72234pt too wide) in paragraph at lines 274--324
+\OT1/cmr/m/n/10 Sixth: []
+ []
+
+
+Overfull \hbox (65.83344pt too wide) in paragraph at lines 274--324
+\OT1/cmr/m/n/10 Sev-enth: []
+ []
+
+
+Overfull \hbox (36.66672pt too wide) in paragraph at lines 274--324
+\OT1/cmr/m/n/10 8: []
+ []
+
+
+Overfull \hbox (36.66672pt too wide) in paragraph at lines 274--324
+\OT1/cmr/m/n/10 9: []
+ []
+
+
+Overfull \hbox (41.66673pt too wide) in paragraph at lines 274--324
+\OT1/cmr/m/n/10 10: []
+ []
+
+
+Overfull \hbox (41.66673pt too wide) in paragraph at lines 274--324
+\OT1/cmr/m/n/10 11: []
+ []
+
+
+Overfull \hbox (41.66673pt too wide) in paragraph at lines 274--324
+\OT1/cmr/m/n/10 12: []
+ []
+
+
+Overfull \hbox (41.66673pt too wide) in paragraph at lines 274--324
+\OT1/cmr/m/n/10 13: []
+ []
+
+
+Overfull \hbox (41.66673pt too wide) in paragraph at lines 274--324
+\OT1/cmr/m/n/10 14: []
+ []
+
+
+Overfull \hbox (41.66673pt too wide) in paragraph at lines 274--324
+\OT1/cmr/m/n/10 15: []
+ []
+
+
+Overfull \hbox (41.66673pt too wide) in paragraph at lines 274--324
+\OT1/cmr/m/n/10 16: []
+ []
+
+
+Overfull \hbox (41.66673pt too wide) in paragraph at lines 274--324
+\OT1/cmr/m/n/10 17: []
+ []
+
+
+Overfull \hbox (41.66673pt too wide) in paragraph at lines 274--324
+\OT1/cmr/m/n/10 18: []
+ []
+
+
+Overfull \hbox (41.66673pt too wide) in paragraph at lines 274--324
+\OT1/cmr/m/n/10 19: []
+ []
+
+
+Overfull \hbox (41.66673pt too wide) in paragraph at lines 274--324
+\OT1/cmr/m/n/10 20: []
+ []
+
+
+Overfull \hbox (41.66673pt too wide) in paragraph at lines 274--324
+\OT1/cmr/m/n/10 21: []
+ []
+
+
+Overfull \hbox (41.66673pt too wide) in paragraph at lines 274--324
+\OT1/cmr/m/n/10 22: []
+ []
+
+
+Overfull \hbox (41.66673pt too wide) in paragraph at lines 274--324
+\OT1/cmr/m/n/10 23: []
+ []
+
+
+Overfull \hbox (41.66673pt too wide) in paragraph at lines 274--324
+\OT1/cmr/m/n/10 24: []
+ []
+
+
+Overfull \hbox (41.66673pt too wide) in paragraph at lines 274--324
+\OT1/cmr/m/n/10 25: [] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.94444pt too high) has occurred while \output is active []
+
+
+[20 <./eigenface_1.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.44444pt too high) has occurred while \output is active []
+
+
+[21 <./eigenface_2.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.94444pt too high) has occurred while \output is active []
+
+
+[22 <./eigenface_3.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.44444pt too high) has occurred while \output is active []
+
+
+[23 <./eigenface_4.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.94444pt too high) has occurred while \output is active []
+
+
+[24 <./eigenface_5.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.44444pt too high) has occurred while \output is active []
+
+
+[25 <./eigenface_6.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.94444pt too high) has occurred while \output is active []
+
+
+[26 <./eigenface_7.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.44444pt too high) has occurred while \output is active []
+
+
+[27 <./eigenface_8.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.94444pt too high) has occurred while \output is active []
+
+
+[28 <./eigenface_9.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.44444pt too high) has occurred while \output is active []
+
+
+[29 <./eigenface_10.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.94444pt too high) has occurred while \output is active []
+
+
+[30 <./eigenface_11.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.44444pt too high) has occurred while \output is active []
+
+
+[31 <./eigenface_12.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.94444pt too high) has occurred while \output is active []
+
+
+[32 <./eigenface_13.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.44444pt too high) has occurred while \output is active []
+
+
+[33 <./eigenface_14.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.94444pt too high) has occurred while \output is active []
+
+
+[34 <./eigenface_15.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.44444pt too high) has occurred while \output is active []
+
+
+[35 <./eigenface_16.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.94444pt too high) has occurred while \output is active []
+
+
+[36 <./eigenface_17.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.44444pt too high) has occurred while \output is active []
+
+
+[37 <./eigenface_18.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.94444pt too high) has occurred while \output is active []
+
+
+[38 <./eigenface_19.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.44444pt too high) has occurred while \output is active []
+
+
+[39 <./eigenface_20.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.94444pt too high) has occurred while \output is active []
+
+
+[40 <./eigenface_21.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.44444pt too high) has occurred while \output is active []
+
+
+[41 <./eigenface_22.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.94444pt too high) has occurred while \output is active []
+
+
+[42 <./eigenface_23.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.44444pt too high) has occurred while \output is active []
+
+
+[43 <./eigenface_24.png>]
+<reconstruct_Im1.png, id=232, 462.528pt x 346.896pt>
+File: reconstruct_Im1.png Graphic file (type png)
+<use reconstruct_Im1.png>
+Package pdftex.def Info: reconstruct_Im1.png  used on input line 327.
+(pdftex.def)             Requested size: 469.75502pt x 352.33655pt.
+<reconstruct_Im2.png, id=233, 462.528pt x 346.896pt>
+File: reconstruct_Im2.png Graphic file (type png)
+<use reconstruct_Im2.png>
+Package pdftex.def Info: reconstruct_Im2.png  used on input line 328.
+(pdftex.def)             Requested size: 469.75502pt x 352.33655pt.
+<reconstruct_Im3.png, id=234, 462.528pt x 346.896pt>
+File: reconstruct_Im3.png Graphic file (type png)
+<use reconstruct_Im3.png>
+Package pdftex.def Info: reconstruct_Im3.png  used on input line 329.
+(pdftex.def)             Requested size: 469.75502pt x 352.33655pt.
+<reconstruct_Im4.png, id=235, 462.528pt x 346.896pt>
+File: reconstruct_Im4.png Graphic file (type png)
+<use reconstruct_Im4.png>
+Package pdftex.def Info: reconstruct_Im4.png  used on input line 330.
+(pdftex.def)             Requested size: 469.75502pt x 352.33655pt.
+<reconstruct_Im5.png, id=236, 462.528pt x 346.896pt>
+File: reconstruct_Im5.png Graphic file (type png)
+<use reconstruct_Im5.png>
+Package pdftex.def Info: reconstruct_Im5.png  used on input line 331.
+(pdftex.def)             Requested size: 469.75502pt x 352.33655pt.
+
+Overfull \hbox (25.00003pt too wide) in paragraph at lines 327--332
+[][]
+ []
+
+
+Overfull \hbox (25.00003pt too wide) in paragraph at lines 327--332
+[]
+ []
+
+
+Overfull \hbox (25.00003pt too wide) in paragraph at lines 327--332
+[]
+ []
+
+
+Overfull \hbox (25.00003pt too wide) in paragraph at lines 327--332
+[]
+ []
+
+
+Overfull \hbox (25.00003pt too wide) in paragraph at lines 327--332
+[] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.94444pt too high) has occurred while \output is active []
+
+
+[44 <./eigenface_25.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.44444pt too high) has occurred while \output is active []
+
+
+[45 <./reconstruct_Im1.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.94444pt too high) has occurred while \output is active []
+
+
+[46 <./reconstruct_Im2.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.44444pt too high) has occurred while \output is active []
+
+
+[47 <./reconstruct_Im3.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.94444pt too high) has occurred while \output is active []
+
+
+[48 <./reconstruct_Im4.png>] (./hw6_5.py
+Overfull \vbox (6.44444pt too high) has occurred while \output is active []
+
+
+[49 <./reconstruct_Im5.png>]
+LaTeX Font Info:    Font shape `OMS/cmr/m/it' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 22.
+
+Overfull \hbox (35.2499pt too wide) in paragraph at lines 35--37
+[][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.94444pt too high) has occurred while \output is active []
+
+
+[50])
+Overfull \vbox (6.44444pt too high) has occurred while \output is active []
+
+
+[51] (./TylerOlivieri_Hw6.aux) ) 
+Here is how much of TeX's memory you used:
+ 5151 strings out of 494923
+ 73604 string characters out of 6180741
+ 189231 words of memory out of 5000000
+ 8328 multiletter control sequences out of 15000+600000
+ 6664 words of font info for 28 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 42i,18n,46p,772b,1689s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7
+.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb><
+/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/s
+hare/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on TylerOlivieri_Hw6.pdf (51 pages, 3764819 bytes).
+PDF statistics:
+ 295 PDF objects out of 1000 (max. 8388607)
+ 138 compressed objects within 2 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 246 words of extra memory for PDF output out of 10000 (max. 10000000)
+

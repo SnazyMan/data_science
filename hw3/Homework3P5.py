@@ -77,27 +77,36 @@ print(np.isnan(iris_2d).any())
 # ### Filtering
 
 # TODO 7: Filter the rows of 'iris_2d' that has petallength (3rd column) > 1.5 and sepallength (1st column) < 5.0.
-# return 
+filtered_iris = []
+for i in range(0,len(iris_2d)):
+    if iris_2d[i,0] < 5 and iris_2d[i,2] > 1.5:
+        # not sure what to do with the filtered rows  ... I stored them in a list
+        filtered_iris.append(iris_2d[i,:])
+        
+print(filtered_iris)
 
 # Create a deep copy of 'iris_2d'.
 iris_2d_c = iris_2d.copy()
-#iris_2d_c = iris_2d[:,2].astype('str')
-#print(iris_2d_c)
 
 # TODO 8: Convert the column 'petallength' (3rd col) to a string according to the following rules in the copied array.
 # - <3 --> 'small'
 # - 3-5 --> 'medium'
 # - >=5 --> 'large'
 
-# loop over 3rd column
-#for i in range(0, len(iris_2d_c[:,2])):
-#    if iris_2d_c[i,2] < 3:
-#        iris_2d_c[i,2] = "small"
-#    elif iris_2d_c[i,2] >= 3 and iris_2d_c[i,2] <= 5:
-#        iris_2d_c[i,2] = "medium"
-#    else:
-#        iris_2d_c[i,2] = "large"
 
+# I was not sure if the strings should replace the entries in the numpy array or to create a new array
+# loop over 3rd column
+string_list = []
+for i in range(0, len(iris_2d_c)):
+    if iris_2d[i,2] < 3:
+        string_list.append("small")
+    elif iris_2d[i,2] >= 3 and iris_2d[i,2] < 5:
+        string_list.append("medium")
+    else:
+        string_list.append("large")
+
+print(string_list)
+        
 # ### Statisticsl
 
 # You may use scipy.stats package as you desire, although you can get through all the assignments without it
@@ -177,3 +186,30 @@ from matplotlib import pyplot as plt
 # 2) choice of an appropriate type of plot
 # 3) labels and scaling of the axis
 
+# 16 subplots where the ith row axis and jth column correspond to a measurement
+# extract indices
+setosa_idx = np.where(iris_1d[:] == "Iris-setosa")
+versicolor_idx = np.where(iris_1d[:] == "Iris-versicolor")
+virginica_idx = np.where(iris_1d[:] == "Iris-virginica")
+
+# create subplot
+fig, axes = plt.subplots(4 ,4, sharex = 'col', sharey = 'row')
+for i in range(0,4):
+    for j in range(0,4):
+        axes[i,j].scatter(iris_2d[setosa_idx, j], iris_2d[setosa_idx, i], c = 'b', label = 'setosa')
+        axes[i,j].scatter(iris_2d[versicolor_idx, j], iris_2d[versicolor_idx, i], c = 'r', label = 'versicolor')
+        axes[i,j].scatter(iris_2d[virginica_idx, j], iris_2d[virginica_idx, i], c = 'g', label = 'virginica')
+
+# label appropriately
+axes[0,0].legend()
+fig.suptitle('Comparing measurements in the Iris dataset')
+axes[0,0].set_title('sepallength')
+axes[0,0].set_ylabel('sepallength')
+axes[0,1].set_title('sepalwidth')
+axes[1,0].set_ylabel('sepalwidth')
+axes[0,2].set_title('petallength')
+axes[2,0].set_ylabel('petallength')
+axes[0,3].set_title('petalwidth')
+axes[3,0].set_ylabel('petalwidth')
+#plt.savefig('hw3_5.pdf', format='pdf')
+plt.show()

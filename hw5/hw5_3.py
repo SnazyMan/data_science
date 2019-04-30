@@ -18,13 +18,3 @@ features = sm.add_constant(features)
 model = sm.OLS(boston_price,features).fit()
 print(model.summary())
 
-
-# (b) What is the interpretation of B_0.
-# It explains average price of houses not bordering the Charles River
-
-# (c) What is the interpretation of B_1
-# B_1 explains the average difference between houses that border the Charles river and those that don't
-
-# (d) Why do we not include two dummy vars?
-# Then there is a problem with multi-colinearity. If one variable is 0, the other is 1. There is a perfect relationship between them. Extremly correlated.
-# The constant term is a vector of ones. Then by construction the two dummy variables will add to be a vector of 1s. When a variable is 0, the other is 1 and vice versa. Therefore, the intercept is a linear combination of the dummy variables, creating the co-linearity.
